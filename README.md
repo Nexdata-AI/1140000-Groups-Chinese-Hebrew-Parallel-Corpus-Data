@@ -3,7 +3,7 @@
 ## Description
 1.14 Million Pairs of Sentences - Chinese-Hebrew Parallel Corpus Data be stored in text format. It covers multiple fields such as tourism, daily life, news, etc. The data desensitization and quality checking had been done. It can be used as a basic corpus for text data analysis in fields such as machine translation.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1218?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/nlu/1218?source=Github
 
 
 ## Storage format
